@@ -52,5 +52,5 @@ greet('Aid', '2020')  # change it as you need
 remind_name()
 guess_age()
 count()
-# ...
+test()
 end()
